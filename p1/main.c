@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    int N, a=0, b=0, c=0;
+    int N;
     bool found = false;
     
     scanf("%d",&N);
